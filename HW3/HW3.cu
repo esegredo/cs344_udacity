@@ -11,7 +11,7 @@ static float *d_logY__;
 //memory for the cdf
 static unsigned int *d_cdf__;
 
-static const int numBins = 1024;
+static const int numBins = 8192;
 
 size_t numRows__;
 size_t numCols__;
